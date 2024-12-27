@@ -40,4 +40,3 @@ Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do
 <a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-# theme.snuggle.micro.blog
