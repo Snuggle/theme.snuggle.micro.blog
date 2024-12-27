@@ -1,9 +1,6 @@
 ---
-title: My Go Journey
-date: 2017-03-23
-publishdate: 2017-03-24
+title: Embed
+date: 2024-12-26
+publishdate: 2024-12-26
 ---
-
-I decided to start learning Go in March 2017.
-
-Follow my journey through this new blog.
+You shouldn't be able to see this text. This page is embeddable.
